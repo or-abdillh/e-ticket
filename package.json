@@ -1,0 +1,33 @@
+{
+  "name": "e-ticket",
+  "version": "1.0.0",
+  "description": "Project UAS Pemrograman Basis Data Praktikum - 2021",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/or-abdillh/e-ticket.git"
+  },
+  "keywords": [
+    "PHP",
+    "MYSQL",
+    "E-Ticket"
+  ],
+  "contributors": [
+    {
+      "name": "Muhammad Yanto",
+      "email": ""
+    },
+    {
+      "name": "Muhammad Supiannor",
+      "email": ""
+    },
+    {
+      "name": "Oka Rajeb Abdillah",
+      "email": "hans.abdillh05@gmail.com"
+    }
+  ],
+  "license": "ISC"
+}
